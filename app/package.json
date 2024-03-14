@@ -1,12 +1,8 @@
 {
-  "name": "i18next-parser-getFixedT",
+  "name": "app",
   "version": "1.0.0",
   "main": "index.js",
   "type": "module",
   "license": "MIT",
-  "workspaces": [
-    "i18n",
-    "app"
-  ],
   "packageManager": "yarn@4.1.1"
 }
